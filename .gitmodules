@@ -1,0 +1,3 @@
+[submodule "AnimationProgramming/libMaths"]
+	path = AnimationProgramming/libMaths
+	url = ssh://git@github.com:Valentineed/libMaths.git
